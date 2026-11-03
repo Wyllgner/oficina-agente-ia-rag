@@ -1,5 +1,7 @@
 # Construindo seu Próprio Agente de IA com LLMs e RAG
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Wyllgner/oficina-agente-ia-rag/blob/main/oficina_agente_ia.ipynb)
+
 Material da oficina prática apresentada em 03/11/2026, no Laboratório 1, na Trilha de Tecnologia.
 
 **Palestrantes:** Wyllgner Amorim, Nicolas Sales e Gabriel Sérgio
@@ -22,7 +24,7 @@ No final, cada participante personaliza o agente para uma finalidade própria, d
 
 ## Como usar
 
-1. Abra o [Google Colab](https://colab.research.google.com/) e vá em **Arquivo > Fazer upload de notebook**. Escolha o `oficina_agente_ia.ipynb`.
+1. Clique no botão **Abrir no Colab** no topo desta página e depois vá em **Arquivo > Salvar uma cópia no Drive**, para poder editar e guardar o seu progresso.
 2. Crie uma chave gratuita da API do Gemini em [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
 3. No Colab, abra o ícone de **chave (Secrets)** na barra lateral, crie um secret chamado `GEMINI_API_KEY` com a sua chave e ative o acesso do notebook.
 4. Rode as células de cima para baixo com `Shift + Enter`.
